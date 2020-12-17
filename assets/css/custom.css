@@ -1,8 +1,15 @@
-html{
+body{
     background-image: url("../images/gradient-splash.png");
 }
 
-.box{
+.content-box{
+    background-color: whitesmoke;
+    padding: 20px;
+    position: absolute;
+    top: 15%;
+}
+
+.test-box{
     border-style: solid;
     border-color: red;
     border-width: 3px;
