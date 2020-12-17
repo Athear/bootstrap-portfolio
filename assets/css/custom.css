@@ -1,0 +1,9 @@
+body{
+    /* background-image: ; */
+}
+
+.box{
+    border-style: solid;
+    border-color: red;
+    border-width: 3px;
+  }
