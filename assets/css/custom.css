@@ -4,9 +4,8 @@ body{
 
 .content-box{
     background-color: whitesmoke;
+    margin-top: 50px;
     padding: 5%;
-    position: absolute;
-    top: 15%;
 }
 
 .test-box{
