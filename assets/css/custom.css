@@ -8,6 +8,10 @@ body{
     padding: 5%;
 }
 
+.image-buffer{
+    margin: 15px;
+}
+
 .test-box{
     border-style: solid;
     border-color: red;
