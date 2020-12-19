@@ -12,6 +12,11 @@ body{
     margin: 15px;
 }
 
+.contact-buffer{
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+
 .test-box{
     border-style: solid;
     border-color: red;
