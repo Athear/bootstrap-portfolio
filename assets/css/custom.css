@@ -17,6 +17,12 @@ body{
     margin-left: 10px;
 }
 
+.float-box{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
 .test-box{
     border-style: solid;
     border-color: red;
