@@ -8,8 +8,9 @@ body{
     padding: 5%;
 }
 
-.image-buffer{
-    margin: 15px;
+.project-card{
+    margin: 15px 0;
+    width: 18rem
 }
 
 .contact-buffer{
