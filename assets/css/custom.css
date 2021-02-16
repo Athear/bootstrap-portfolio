@@ -35,3 +35,19 @@ body{
     border-style: solid;
     border-color: green;
 }
+
+.footer-content{
+    text-align: center;
+    color:white;
+    font-size: 150%;
+}
+
+.contact-link{
+    color:white;
+    font-size: 120%;
+    margin: 0px 8px;
+
+}
+.contact-link:hover{
+    color:greenyellow;
+}
